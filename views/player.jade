@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  div.container
+    h1 Rdio Playback API
+    div(id="apiswf")
+    dl
+      dt playState
+      dd(id="playState")
+
+      dt track
+      dd(id="track")
+      dt album
+      dd(id="album")
+      dt artist
+      dd(id="artist")
+      dt art
+      dd
+        img(src="", id="art")
+      dt position
+      dd(id="position")
+
+  script(src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js")
+  script(src="/js/libs/jquery.js")
+  script(src="/js/libs/bootstrap.js")
+  script(src="/socket.io/socket.io.js")
+  script(data-main="/js/config.js", src="/js/libs/require.js")
