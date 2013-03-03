@@ -4,7 +4,7 @@ One of the most exciting projects is [play](http://zachholman.com/talk/play/), a
 
 ## A call for help!
 
-Let me start by saying that this project is **extremely** rough. I didn't intend to release it in this state but I figure the best (and fastest) way to improve it is by opening it up for other to play with. The Backbone code is grizzly, the Express code is gnarly, and the things I'm doing with OAuth might be totally downright illegal (I'm an OAuth newb). But—and this is extremely important—it is **super** stable (much to my amazement). My team and I have run it for about 2 weeks and never once managed to crash it. Never needed a reboot or any kind of reset. So while the code might make your face melt, just think of it kinda like the walking dead. The unstoppable, bloodthirsty walking dead. You can hit it with a shovel, poke it in the eye, whatever! It'll keep on truckin'
+Let me start by saying that this project is **extremely** rough. I didn't intend to release it in this state but I figure the best (and fastest) way to improve it is by opening it up for other to play with. The Backbone code is grizzly, the Express code is gnarly, and the things I'm doing with OAuth might be downright illegal (I'm an OAuth newb). But—and this is extremely important—it is **super** stable (much to my amazement). My team and I have run it for about 2 weeks and never once managed to crash it. Never needed a reboot or any kind of reset. So while the code might make your face melt, just think of it kinda like the walking dead. The unstoppable, bloodthirsty walking dead. You can hit it with a shovel, poke it in the eye, whatever! It'll keep on truckin'
 
 ## Grab the project
 
